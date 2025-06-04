@@ -1,0 +1,23 @@
+{
+  "id": "4355685",
+  "name": "shuziren",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4179939",
+      "name": "多选空",
+      "font_class": "duoxuankong",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "6250618",
+      "name": "多选勾",
+      "font_class": "duoxuangou",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    }
+  ]
+}
